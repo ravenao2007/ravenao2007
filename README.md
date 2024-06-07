@@ -1,16 +1,16 @@
-## Hi there 👋
+##🌸🐶 BOAS VINDAS AO MEU PERFIL 🌸🐶
 
-<!--
-**ravenao2007/ravenao2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Ana Clara ❤️
+-Estou estudando Alura 🌻
+-Estou me desenvolvendo a linguagem Jaava Script 📖
+- Utilizo esse espaço para minha organização e compartilhamento do meu projeto desenvolvido 💠
 
-Here are some ideas to get you started:
+## Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 00001107833371sp@al.educacao.sp.gov.br
+ℹ️ @ravenao200007.al
+
+![](https://media.tenor.com/VkpvGmsb1VIAAAAM/dance.gif)               
+![](https://media.tenor.com/GL8h20eioM4AAAAM/web-diva-tulla-luana-tulla-luana-fontes-dos-santos.gif)
+
+
